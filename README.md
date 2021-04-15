@@ -1,4 +1,4 @@
-# The basics of HTML (This is part 2)
+# The basics of HTML (This is part 3)
 The Playlist on the basics of HTML
 
 ### In this playlist, we discuss about the basics of html and how we can make a website using HTML
