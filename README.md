@@ -1,9 +1,11 @@
 # The basics of HTML
-The Playlist on the basics of HTML
+This is the `site` branch.
+
+Live Preview : [https://techharvesting.github.io/html-basics/](https://techharvesting.github.io/html-basics/)
 
 ### In this playlist, we discuss about the basics of html and how we can make a website using HTML
 
-#### You can view the playlist here: [youtube.com/playlist?list=PL1djMrbwfVoXYV04viEODyt_e-aV96Eql](http://youtube.com/playlist?list=PL1djMrbwfVoXYV04viEODyt_e-aV96Eql)
+#### You can view the playlist [here](http://youtube.com/playlist?list=PL1djMrbwfVoXYV04viEODyt_e-aV96Eql)
 
 
 
